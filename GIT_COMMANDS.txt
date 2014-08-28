@@ -1,5 +1,7 @@
 GIT  COMMANDS
 
+process to setup GIT HUB initially
+-------------------------------------
 git config --global user.name "githubrepo938"  (Tell Git your name so your commits will be properly labeled.)
 
 
@@ -7,6 +9,21 @@ git config --global user.email "sivasaiemail@gmail.com"
 
 
 git init (initialize repository)
+
+
+
+
+// associate remote repo to local repo
+
+git remote add origin https://github.com/githubrepo938/scripts.git
+
+git pull https://github.com/githubrepo938/scripts.git
+
+git push -u origin master
+
+
+Other COMMANDS
+---------------------------
 
 git clone
 
