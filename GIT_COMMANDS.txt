@@ -2,10 +2,10 @@ GIT  COMMANDS
 
 process to setup GIT HUB initially
 -------------------------------------
-git config --global user.name "githubrepo938"  (Tell Git your name so your commits will be properly labeled.)
+git config --global user.name "aaaaaaaaaa"  (Tell Git your name so your commits will be properly labeled.)
 
 
-git config --global user.email "sivasaiemail@gmail.com"
+git config --global user.email "aaaaaa@gmail.com"
 
 
 git init (initialize repository)
