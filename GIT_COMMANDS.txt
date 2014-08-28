@@ -21,7 +21,7 @@ git pull https://github.com/githubrepo938/scripts.git
 
 git push -u origin master
 
-
+-------------
 Other COMMANDS
 ---------------------------
 
