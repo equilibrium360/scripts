@@ -10,7 +10,7 @@ git init (initialize repository)
 
 git clone
 
-git add
+git add  
 
 git commit -m "commit message"
 
